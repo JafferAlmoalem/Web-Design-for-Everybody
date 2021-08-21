@@ -1,0 +1,24 @@
+header{
+  background-color: #7DCEA0;
+}
+h1{
+  text-align : center;
+  font-variant: small-caps;
+  font-family: arial;
+  color:#CB4335;
+}
+h2{
+  font-variant: small-caps;
+  font-family: arial;
+  color:#CB4335;
+}
+section{
+  background-color: #ABEBC6;
+}
+a{
+  color:#CB4335;
+  background-color: #AED6F1;
+}
+img{
+  display:none;
+}
